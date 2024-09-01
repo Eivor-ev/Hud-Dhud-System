@@ -1,0 +1,3 @@
+[en]
+
+EV_HUD_MSG = Welcome %n!^n Your rank is %i out of %i
