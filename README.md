@@ -7,7 +7,6 @@ HueHue @ AMXX-BG
 # REQUIREMENTS
 
 - CSX Module [INC. in Default AMXX]
-- ReAPI [Download latest version from dev-cs]
 - Latest AMXX Version [1.9+ or ABOVE]
 
 # UPDATE [9/4/2024]
