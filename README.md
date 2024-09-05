@@ -8,3 +8,7 @@ HueHue @ AMXX-BG
 
 - CSX Module [INC. in Default AMXX]
 - Latest AMXX Version [1.9+ or ABOVE]
+
+# UPDATE [9/4/2024]
+
+- Fixed hud's DHUD type not working.
